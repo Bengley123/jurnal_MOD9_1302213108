@@ -1,0 +1,7 @@
+D:\Folder kpl\tp9\jurnal_MOD9_1302213108\jurnal_MOD9_1302213108\obj\Debug\net6.0\jurnal_MOD9_1302213108.csproj.AssemblyReference.cache
+D:\Folder kpl\tp9\jurnal_MOD9_1302213108\jurnal_MOD9_1302213108\obj\Debug\net6.0\jurnal_MOD9_1302213108.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder kpl\tp9\jurnal_MOD9_1302213108\jurnal_MOD9_1302213108\obj\Debug\net6.0\jurnal_MOD9_1302213108.AssemblyInfoInputs.cache
+D:\Folder kpl\tp9\jurnal_MOD9_1302213108\jurnal_MOD9_1302213108\obj\Debug\net6.0\jurnal_MOD9_1302213108.AssemblyInfo.cs
+D:\Folder kpl\tp9\jurnal_MOD9_1302213108\jurnal_MOD9_1302213108\obj\Debug\net6.0\jurnal_MOD9_1302213108.csproj.CoreCompileInputs.cache
+D:\Folder kpl\tp9\jurnal_MOD9_1302213108\jurnal_MOD9_1302213108\obj\Debug\net6.0\jurnal_MOD9_1302213108.MvcApplicationPartsAssemblyInfo.cs
+D:\Folder kpl\tp9\jurnal_MOD9_1302213108\jurnal_MOD9_1302213108\obj\Debug\net6.0\jurnal_MOD9_1302213108.MvcApplicationPartsAssemblyInfo.cache
